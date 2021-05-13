@@ -1,0 +1,2 @@
+Este es el primero archivo que almacenaremos en git.
+Pero aquí comenzaremos a realizar varios cambios.
