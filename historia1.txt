@@ -1,2 +1,5 @@
 historia para repositorio carlos.fmolinav@gmail.com
 Este archivo será el primer commit en el repositorio de carlos.fmolinav@gmail.com
+
+Historia de Carlos Molina
+Nacio en El Salvador
