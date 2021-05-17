@@ -2,4 +2,5 @@ historia para repositorio carlos.fmolinav@gmail.com
 Este archivo será el primer commit en el repositorio de carlos.fmolinav@gmail.com
 
 Historia de Carlos Molina
-Nacio en El Salvador
+Nacio en El Salvador, en 1984.
+Un sábado 19 de mayo de 1984.
