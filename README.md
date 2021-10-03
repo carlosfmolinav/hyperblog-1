@@ -5,7 +5,7 @@ Un blog increible para el curso de Git y Github.
 ## En este curso vemos de todo:
 * Todos los comandos Git
 * El flujo de trabajo de Github
-* El verdadero amor por las buenas práctivas
+* El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 
 Y como un amable recordatorio: **Este readme.md** es creado como un recordatorio de una muy buena práctica.
